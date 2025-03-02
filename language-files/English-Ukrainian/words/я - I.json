@@ -1,0 +1,186 @@
+[
+    {
+        "object-type": "metadata",
+        "metadata": {
+            "target-language": "Ukrainian",
+            "origin-language": "English"
+        }
+    },
+    {
+        "object-type": "basic-information",
+        "word-target": "я",
+        "word-target_field_explanation": "The canonical form of the word in the target language",
+        "word-origin-script": "ya",
+        "word-origin-script_field_explanation": "The word-target in the script of the origin language",
+        "word-pronunciation": "ya",
+        "word-pronunciation_field_explanation": "The pronunciation of the word-target",
+        "word-origin": ["I"],
+        "word-origin_field_explanation": "The translation of the word-target in the origin language as an array if multiple translations are possible",
+        "word-definition": "The first-person singular pronoun used to refer to oneself.",
+        "word-usage": "",
+        "word-usage_field_explanation": "The usage of the word-target in the target language, if necessary",
+        "word-part-of-speech": "pronoun",
+        "word-part-of-speech_field_explanation": "The part of speech of the word-target",
+        "word-grammar-notes": "The word 'я' is a personal pronoun in Ukrainian and does not change by case.",
+        "word-grammar-notes_field_explanation": "Additional grammatical information about the word-target.",
+        "word-examples": [
+            {
+                "word-example-target-array": ["Я", "люблю", "читати", "."],
+                "word-example-target-field_explanation": "The example of the word-target in the target language as an array, each word or character is a separate element in the array",
+                "word-example-origin-script-array": ["Ya", "lyublyu", "chytaty", "."],
+                "word-example-origin-script-field_explanation": "The word-example-target-array in the script of the origin language",
+                "word-example-translation-array": ["I", "love", "to read", "."],
+                "word-example-translation-field_explanation": "The translation of the word-example-target-array. Each element in the array should correspond to the element with the same index in the word-example-target-array. Each array should therefore have the same length.",
+                "word-example-translation": "I love to read.",
+                "word-example-translation_field_explanation": "The translation of the word-example-target-array in the origin language as a single string"
+            },
+            {
+                "word-example-target-array": ["Я", "живу", "в", "Києві", "."],
+                "word-example-target-field_explanation": "The example of the word-target in the target language as an array, each word or character is a separate element in the array",
+                "word-example-origin-script-array": ["Ya", "zhyvu", "v", "Kyyevi", "."],
+                "word-example-origin-script-field_explanation": "The word-example-target-array in the script of the origin language",
+                "word-example-translation-array": ["I", "live", "in", "Kyiv", "."],
+                "word-example-translation-field_explanation": "The translation of the word-example-target-array. Each element in the array should correspond to the element with the same index in the word-example-target-array. Each array should therefore have the same length.",
+                "word-example-translation": "I live in Kyiv.",
+                "word-example-translation_field_explanation": "The translation of the word-example-target-array in the origin language as a single string"
+            },
+            {
+                "word-example-target-array": ["Я", "працюю", "в", "офісі", "."],
+                "word-example-target-field_explanation": "The example of the word-target in the target language as an array, each word or character is a separate element in the array",
+                "word-example-origin-script-array": ["Ya", "pratsyuyu", "v", "ofisi", "."],
+                "word-example-origin-script-field_explanation": "The word-example-target-array in the script of the origin language",
+                "word-example-translation-array": ["I", "work", "in", "an office", "."],
+                "word-example-translation-field_explanation": "The translation of the word-example-target-array. Each element in the array should correspond to the element with the same index in the word-example-target-array. Each array should therefore have the same length.",
+                "word-example-translation": "I work in an office.",
+                "word-example-translation_field_explanation": "The translation of the word-example-target-array in the origin language as a single string"
+            }
+        ],
+        "word-examples_field_explanation": "The examples of the word-target in the target language as an array. Only include examples using the canonical form of the word-target."
+    },    
+    {
+        "object-type": "inflections",
+        "word-inflections": [
+            {
+                "word-inflection-target": "мене",
+                "word-inflection-target_field_explanation": "The inflection of the word-target",
+                "word-inflection-origin-script": "mene",
+                "word-inflection-origin-script_field_explanation": "The word-inflection-target in the script of the origin language",
+                "word-inflection-pronunciation": "meh-neh",
+                "word-inflection-pronunciation_field_explanation": "The pronunciation of the word-inflection-target",
+                "word-inflection-type": "declension",
+                "word-inflection-type_field_explanation": "The type of inflection",
+                "word-inflection-description": "Genitive/Accusative, singular",
+                "word-inflection-description_field_explanation": "The description of the inflection",
+                "word-inflection-explanation": "Used for possession (Genitive) or as a direct object (Accusative).",
+                "word-inflection-translation": "me",
+                "word-inflection-translation_field_explanation": "A translation of the inflected word when applicable",
+                "word-inflection-examples": [
+                    {
+                        "word-inflection-example-target-array": ["У", "мене", "є", "собака", "."],
+                        "word-inflection-example-origin-script-array": ["U", "mene", "ye", "sobaka", "."],
+                        "word-inflection-example-translation-array": ["I", "have", "a", "dog", "."],
+                        "word-inflection-example-translation": "I have a dog.",
+                        "word-inflection-example-explanation": "Using 'мене' in the Genitive case to express possession."
+                    }
+                ]
+            },
+            {
+                "word-inflection-target": "мені",
+                "word-inflection-target_field_explanation": "The inflection of the word-target",
+                "word-inflection-origin-script": "meni",
+                "word-inflection-origin-script_field_explanation": "The word-inflection-target in the script of the origin language",
+                "word-inflection-pronunciation": "meh-nee",
+                "word-inflection-pronunciation_field_explanation": "The pronunciation of the word-inflection-target",
+                "word-inflection-type": "declension",
+                "word-inflection-type_field_explanation": "The type of inflection",
+                "word-inflection-description": "Dative, singular",
+                "word-inflection-description_field_explanation": "The description of the inflection",
+                "word-inflection-explanation": "Used when something is given to or done for the subject.",
+                "word-inflection-translation": "to me / for me",
+                "word-inflection-translation_field_explanation": "A translation of the inflected word when applicable",
+                "word-inflection-examples": [
+                    {
+                        "word-inflection-example-target-array": ["Мені", "подобається", "музика", "."],
+                        "word-inflection-example-origin-script-array": ["Meni", "podobayetsya", "muzyka", "."],
+                        "word-inflection-example-translation-array": ["I", "like", "music", "."],
+                        "word-inflection-example-translation": "I like music.",
+                        "word-inflection-example-explanation": "'Мені' is used to indicate the indirect object."
+                    }
+                ]
+            },
+            {
+                "word-inflection-target": "мною",
+                "word-inflection-target_field_explanation": "The inflection of the word-target",
+                "word-inflection-origin-script": "mnoiu",
+                "word-inflection-origin-script_field_explanation": "The word-inflection-target in the script of the origin language",
+                "word-inflection-pronunciation": "mnoh-yu",
+                "word-inflection-pronunciation_field_explanation": "The pronunciation of the word-inflection-target",
+                "word-inflection-type": "declension",
+                "word-inflection-type_field_explanation": "The type of inflection",
+                "word-inflection-description": "Instrumental, singular",
+                "word-inflection-description_field_explanation": "The description of the inflection",
+                "word-inflection-explanation": "Used to indicate the means or instrument by which an action is performed.",
+                "word-inflection-translation": "by me / with me",
+                "word-inflection-translation_field_explanation": "A translation of the inflected word when applicable",
+                "word-inflection-examples": [
+                    {
+                        "word-inflection-example-target-array": ["Це", "зроблено", "мною", "."],
+                        "word-inflection-example-origin-script-array": ["Tse", "zrobleno", "mnoiu", "."],
+                        "word-inflection-example-translation-array": ["This", "was done", "by me", "."],
+                        "word-inflection-example-translation": "This was done by me.",
+                        "word-inflection-example-explanation": "'Мною' is used in the instrumental case to indicate who performed the action."
+                    }
+                ]
+            },
+            {
+                "word-inflection-target": "на мені",
+                "word-inflection-target_field_explanation": "The inflection of the word-target",
+                "word-inflection-origin-script": "na meni",
+                "word-inflection-origin-script_field_explanation": "The word-inflection-target in the script of the origin language",
+                "word-inflection-pronunciation": "na meh-nee",
+                "word-inflection-pronunciation_field_explanation": "The pronunciation of the word-inflection-target",
+                "word-inflection-type": "declension",
+                "word-inflection-type_field_explanation": "The type of inflection",
+                "word-inflection-description": "Locative, singular",
+                "word-inflection-description_field_explanation": "The description of the inflection",
+                "word-inflection-explanation": "Used to indicate location or state.",
+                "word-inflection-translation": "on me",
+                "word-inflection-translation_field_explanation": "A translation of the inflected word when applicable",
+                "word-inflection-examples": [
+                    {
+                        "word-inflection-example-target-array": ["Кіт", "спить", "на", "мені", "."],
+                        "word-inflection-example-origin-script-array": ["Kit", "spyt", "na", "meni", "."],
+                        "word-inflection-example-translation-array": ["The cat", "is sleeping", "on", "me", "."],
+                        "word-inflection-example-translation": "The cat is sleeping on me.",
+                        "word-inflection-example-explanation": "'На мені' is used to indicate location."
+                    }
+                ]
+            },
+            {
+                "word-inflection-target": "я",
+                "word-inflection-target_field_explanation": "The inflection of the word-target",
+                "word-inflection-origin-script": "ya",
+                "word-inflection-origin-script_field_explanation": "The word-inflection-target in the script of the origin language",
+                "word-inflection-pronunciation": "ya",
+                "word-inflection-pronunciation_field_explanation": "The pronunciation of the word-inflection-target",
+                "word-inflection-type": "declension",
+                "word-inflection-type_field_explanation": "The type of inflection",
+                "word-inflection-description": "Nominative, singular",
+                "word-inflection-description_field_explanation": "The description of the inflection",
+                "word-inflection-explanation": "The base form, used as the subject of a sentence.",
+                "word-inflection-translation": "I",
+                "word-inflection-translation_field_explanation": "A translation of the inflected word when applicable",
+                "word-inflection-examples": [
+                    {
+                        "word-inflection-example-target-array": ["Я", "люблю", "читати", "."],
+                        "word-inflection-example-origin-script-array": ["Ya", "lyublyu", "chytaty", "."],
+                        "word-inflection-example-translation-array": ["I", "love", "to read", "."],
+                        "word-inflection-example-translation": "I love to read.",
+                        "word-inflection-example-explanation": "'Я' is used as the subject of the sentence."
+                    }
+                ]
+            }
+        ]
+    }
+    
+]

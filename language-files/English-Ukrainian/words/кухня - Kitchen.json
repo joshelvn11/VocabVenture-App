@@ -1,0 +1,212 @@
+{
+    "metadata": {
+        "target-language": "Ukrainian",
+        "origin-language": "English"
+    },
+    "word-target": "кухня",
+    "word-target_field_explanation": "The canonical form of the word in the target language",
+    "word-origin-script": "kuxnya",
+    "word-origin-script_field_explanation": "The word-target in the script of the origin language",
+    "word-pronunciation": "kukh-nya",
+    "word-pronunciation_field_explanation": "The pronunciation of the word-target",
+    "word-origin": ["Kitchen"],
+    "word-origin_field_explanation": "The translation of the word-target in the origin language as an array if multiple translations are possible",
+    "word-definition": "A room or area in a house or building where food is prepared and cooked.",
+    "word-usage": "",
+    "word-usage_field_explanation": "The usage of the word-target in the target language, if necessary",
+    "word-part-of-speech": "noun",
+    "word-part-of-speech_field_explanation": "The part of speech of the word-target",
+    "word-grammar-notes": "The word 'кухня' is a feminine noun and follows the first declension pattern in Ukrainian.",
+    "word-grammar-notes_field_explanation": "Additional grammatical information about the word-target.",
+    "word-examples": [
+        {
+            "word-example-target-array": ["Кухня", "у", "нашому", "будинку", "велика", "."],
+            "word-example-target-field_explanation": "The example of the word-target in the target language as an array, each word or character is a separate element in the array",
+            "word-example-origin-script-array": ["Kuxnya", "u", "nashomu", "budynku", "velyka", "."],
+            "word-example-origin-script-field_explanation": "The word-example-target-array in the script of the origin language",
+            "word-example-translation-array": ["Kitchen", "in", "our", "house", "is big", "."],
+            "word-example-translation-field_explanation": "The translation of the word-example-target-array. Each element in the array should correspond to the element with the same index in the word-example-target-array. Each array should therefore have the same length.",
+            "word-example-translation": "The kitchen in our house is big.",
+            "word-example-translation_field_explanation": "The translation of the word-example-target-array in the origin language as a single string"
+        },
+        {
+            "word-example-target-array": ["Кухня", "це", "моя", "улюблена", "кімната", "."],
+            "word-example-target-field_explanation": "The example of the word-target in the target language as an array, each word or character is a separate element in the array",
+            "word-example-origin-script-array": ["Kuxnya", "tse", "moya", "ulyublena", "kimnata", "."],
+            "word-example-origin-script-field_explanation": "The word-example-target-array in the script of the origin language",
+            "word-example-translation-array": ["Kitchen", "is", "my", "favorite", "room", "."],
+            "word-example-translation-field_explanation": "The translation of the word-example-target-array. Each element in the array should correspond to the element with the same index in the word-example-target-array. Each array should therefore have the same length.",
+            "word-example-translation": "The kitchen is my favorite room.",
+            "word-example-translation_field_explanation": "The translation of the word-example-target-array in the origin language as a single string"
+        },
+        {
+            "word-example-target-array": ["Кухня", "завжди", "світла", "і", "затишна", "."],
+            "word-example-target-field_explanation": "The example of the word-target in the target language as an array, each word or character is a separate element in the array",
+            "word-example-origin-script-array": ["Kuxnya", "zavzhdy", "svitla", "i", "zatyshna", "."],
+            "word-example-origin-script-field_explanation": "The word-example-target-array in the script of the origin language",
+            "word-example-translation-array": ["Kitchen", "is always", "bright", "and", "cozy", "."],
+            "word-example-translation-field_explanation": "The translation of the word-example-target-array. Each element in the array should correspond to the element with the same index in the word-example-target-array. Each array should therefore have the same length.",
+            "word-example-translation": "The kitchen is always bright and cozy.",
+            "word-example-translation_field_explanation": "The translation of the word-example-target-array in the origin language as a single string"
+        }
+    ],
+    "word-examples_field_explanation": "The examples of the word-target in the target language as an array. Only include examples using the canonical form of the word-target.",
+    "word-inflections": [
+        {
+            "word-inflection-target": "кухні",
+            "word-inflection-target_field_explanation": "The inflection of the word-target",
+            "word-inflection-origin-script": "kuxni",
+            "word-inflection-origin-script_field_explanation": "The word-inflection-target in the script of the origin language",
+            "word-inflection-pronunciation": "kukh-ni",
+            "word-inflection-pronunciation_field_explanation": "The pronunciation of the word-inflection-target",
+            "word-inflection-type": "declension",
+            "word-inflection-type_field_explanation": "The type of inflection",
+            "word-inflection-description": "Genitive, singular",
+            "word-inflection-description_field_explanation": "The description of the inflection",
+            "word-inflection-explanation": "The genitive case (родовий відмінок) in Ukrainian is used to indicate possession, absence, quantity, and other relationships. It answers the questions `чого?` (choho? – `of what?`) or `кого?` (koho? – `of whom?`).",
+            "word-inflection-examples": [
+                {
+                    "word-inflection-example-target-array": ["Двері", "кухні"],
+                    "word-inflection-example-target-field_explanation": "The example of the word-inflection-target in the target language as an array, each word or character is a separate element in the array",
+                    "word-inflection-example-origin-script-array": ["Dveri", "kuxni"],
+                    "word-inflection-example-origin-script-field_explanation": "The word-inflection-example-target-array in the script of the origin language",
+                    "word-inflection-example-translation-array": ["Door", "of the kitchen"],
+                    "word-inflection-example-translation-field_explanation": "The translation of the word-inflection-example-target-array. Each element in the array should correspond to the element with the same index in the word-inflection-example-target-array. Each array should therefore have the same length.",
+                    "word-inflection-example-translation": "The door of the kitchen",
+                    "word-inflection-example-translation_field_explanation": "The translation of the word-inflection-example-target-array in the origin language as a single string",
+                    "word-inflection-example-explanation": "The kitchen is in possession of the door"
+                }
+            ]
+        },
+        {
+            "word-inflection-target": "кухні",
+            "word-inflection-target_field_explanation": "The inflection of the word-target",
+            "word-inflection-origin-script": "kuxni",
+            "word-inflection-origin-script_field_explanation": "The word-inflection-target in the script of the origin language",
+            "word-inflection-pronunciation": "kukh-ni",
+            "word-inflection-pronunciation_field_explanation": "The pronunciation of the word-inflection-target",
+            "word-inflection-type": "declension",
+            "word-inflection-type_field_explanation": "The type of inflection",
+            "word-inflection-description": "Dative, singular",
+            "word-inflection-description_field_explanation": "The description of the inflection",
+            "word-inflection-explanation": "The dative case (давальний відмінок) in Ukrainian is used to indicate the indirect object of a verb. It answers the questions `кому?` (komu? – `to whom?`) or `чому?` (chomu? – `to what?`).",
+            "word-inflection-examples": [
+                {
+                    "word-inflection-example-target-array": ["Я", "даю", "квіти", "кухні", "."],
+                    "word-inflection-example-target-field_explanation": "The example of the word-inflection-target in the target language as an array, each word or character is a separate element in the array",
+                    "word-inflection-example-origin-script-array": ["Ya", "dayu", "kvity", "kuxni", "."],
+                    "word-inflection-example-origin-script-field_explanation": "The word-inflection-example-target-array in the script of the origin language",
+                    "word-inflection-example-translation-array": ["I", "give", "flowers", "to the kitchen", "."],
+                    "word-inflection-example-translation-field_explanation": "The translation of the word-inflection-example-target-array. Each element in the array should correspond to the element with the same index in the word-inflection-example-target-array. Each array should therefore have the same length.",
+                    "word-inflection-example-translation": "I give flowers to the kitchen.",
+                    "word-inflection-example-translation_field_explanation": "The translation of the word-inflection-example-target-array in the origin language as a single string",
+                    "word-inflection-example-explanation": "The kitchen is the indirect object of the verb 'give'"
+                }
+            ]
+        },
+        {
+            "word-inflection-target": "кухню",
+            "word-inflection-target_field_explanation": "The inflection of the word-target",
+            "word-inflection-origin-script": "kuxnyu",
+            "word-inflection-origin-script_field_explanation": "The word-inflection-target in the script of the origin language",
+            "word-inflection-pronunciation": "kukh-nyu",
+            "word-inflection-pronunciation_field_explanation": "The pronunciation of the word-inflection-target",
+            "word-inflection-type": "declension",
+            "word-inflection-type_field_explanation": "The type of inflection",
+            "word-inflection-description": "Accusative, singular",
+            "word-inflection-description_field_explanation": "The description of the inflection",
+            "word-inflection-explanation": "The accusative case (знахідний відмінок) in Ukrainian is used to indicate the direct object of a verb. It answers the questions `кого?` (koho? – `whom?`) or `що?` (shcho? – `what?`).",
+            "word-inflection-examples": [
+                {
+                    "word-inflection-example-target-array": ["Я", "прибираю", "кухню", "."],
+                    "word-inflection-example-target-field_explanation": "The example of the word-inflection-target in the target language as an array, each word or character is a separate element in the array",
+                    "word-inflection-example-origin-script-array": ["Ya", "prybyrayu", "kuxnyu", "."],
+                    "word-inflection-example-origin-script-field_explanation": "The word-inflection-example-target-array in the script of the origin language",
+                    "word-inflection-example-translation-array": ["I", "clean", "the kitchen", "."],
+                    "word-inflection-example-translation-field_explanation": "The translation of the word-inflection-example-target-array. Each element in the array should correspond to the element with the same index in the word-inflection-example-target-array. Each array should therefore have the same length.",
+                    "word-inflection-example-translation": "I am cleaning the kitchen.",
+                    "word-inflection-example-translation_field_explanation": "The translation of the word-inflection-example-target-array in the origin language as a single string",
+                    "word-inflection-example-explanation": "The kitchen is the direct object of the verb 'clean'"
+                }
+            ]
+        },
+        {
+            "word-inflection-target": "кухнею",
+            "word-inflection-target_field_explanation": "The inflection of the word-target",
+            "word-inflection-origin-script": "kuxneyu",
+            "word-inflection-origin-script_field_explanation": "The word-inflection-target in the script of the origin language",
+            "word-inflection-pronunciation": "kukh-neyu",
+            "word-inflection-pronunciation_field_explanation": "The pronunciation of the word-inflection-target",
+            "word-inflection-type": "declension",
+            "word-inflection-type_field_explanation": "The type of inflection",
+            "word-inflection-description": "Instrumental, singular",
+            "word-inflection-description_field_explanation": "The description of the inflection",
+            "word-inflection-explanation": "The instrumental case (орудний відмінок) in Ukrainian is used to indicate the means or instrument by which an action is performed. It answers the questions `ким?` (kym? – `by whom?`) or `чим?` (chym? – `by what?`).",
+            "word-inflection-examples": [
+                {
+                    "word-inflection-example-target-array": ["Я", "готую", "обід", "на", "кухнею", "."],
+                    "word-inflection-example-target-field_explanation": "The example of the word-inflection-target in the target language as an array, each word or character is a separate element in the array",
+                    "word-inflection-example-origin-script-array": ["Ya", "hotuyu", "obid", "na", "kuxneyu", "."],
+                    "word-inflection-example-origin-script-field_explanation": "The word-inflection-example-target-array in the script of the origin language",
+                    "word-inflection-example-translation-array": ["I", "cook", "dinner", "in", "the kitchen", "."],
+                    "word-inflection-example-translation-field_explanation": "The translation of the word-inflection-example-target-array. Each element in the array should correspond to the element with the same index in the word-inflection-example-target-array. Each array should therefore have the same length.",
+                    "word-inflection-example-translation": "I cook dinner in the kitchen.",
+                    "word-inflection-example-translation_field_explanation": "The translation of the word-inflection-example-target-array in the origin language as a single string",
+                    "word-inflection-example-explanation": "The kitchen is the means by which the action of cooking is performed"
+                }
+            ]
+        },
+        {
+            "word-inflection-target": "на кухні",
+            "word-inflection-target_field_explanation": "The inflection of the word-target",
+            "word-inflection-origin-script": "na kuxni",
+            "word-inflection-origin-script_field_explanation": "The word-inflection-target in the script of the origin language",
+            "word-inflection-pronunciation": "na kukh-ni",
+            "word-inflection-pronunciation_field_explanation": "The pronunciation of the word-inflection-target",
+            "word-inflection-type": "declension",
+            "word-inflection-type_field_explanation": "The type of inflection",
+            "word-inflection-description": "Locative, singular",
+            "word-inflection-description_field_explanation": "The description of the inflection",
+            "word-inflection-explanation": "The locative case (місцевий відмінок) in Ukrainian is used to indicate location. It answers the questions `де?` (de? – `where?`) or `на чому?` (na chomu? – `on what?`).",
+            "word-inflection-examples": [
+                {
+                    "word-inflection-example-target-array": ["Ми", "їмо", "на", "кухні", "."],
+                    "word-inflection-example-target-field_explanation": "The example of the word-inflection-target in the target language as an array, each word or character is a separate element in the array",
+                    "word-inflection-example-origin-script-array": ["My", "yimo", "na", "kuxni", "."],
+                    "word-inflection-example-origin-script-field_explanation": "The word-inflection-example-target-array in the script of the origin language",
+                    "word-inflection-example-translation-array": ["We", "eat", "in", "the kitchen", "."],
+                    "word-inflection-example-translation-field_explanation": "The translation of the word-inflection-example-target-array. Each element in the array should correspond to the element with the same index in the word-inflection-example-target-array. Each array should therefore have the same length.",
+                    "word-inflection-example-translation": "We eat in the kitchen.",
+                    "word-inflection-example-translation_field_explanation": "The translation of the word-inflection-example-target-array in the origin language as a single string",
+                    "word-inflection-example-explanation": "The kitchen is the location where the action of eating takes place"
+                }
+            ]
+        },
+        {
+            "word-inflection-target": "кухне",
+            "word-inflection-target_field_explanation": "The inflection of the word-target",
+            "word-inflection-origin-script": "kuxne",
+            "word-inflection-origin-script_field_explanation": "The word-inflection-target in the script of the origin language",
+            "word-inflection-pronunciation": "kukh-ne",
+            "word-inflection-pronunciation_field_explanation": "The pronunciation of the word-inflection-target",
+            "word-inflection-type": "declension",
+            "word-inflection-type_field_explanation": "The type of inflection",
+            "word-inflection-description": "Vocative, singular",
+            "word-inflection-description_field_explanation": "The description of the inflection",
+            "word-inflection-explanation": "The vocative case (кличний відмінок) in Ukrainian is used to address or call someone or something directly. It is rarely used for inanimate objects like 'kitchen.'",
+            "word-inflection-examples": [
+                {
+                    "word-inflection-example-target-array": ["Кухне,", "ти", "чудова", "!"],
+                    "word-inflection-example-target-field_explanation": "The example of the word-inflection-target in the target language as an array, each word or character is a separate element in the array",
+                    "word-inflection-example-origin-script-array": ["Kuxne,", "ty", "chudova", "!"],
+                    "word-inflection-example-origin-script-field_explanation": "The word-inflection-example-target-array in the script of the origin language",
+                    "word-inflection-example-translation-array": ["Kitchen,", "you", "are wonderful", "!"],
+                    "word-inflection-example-translation-field_explanation": "The translation of the word-inflection-example-target-array. Each element in the array should correspond to the element with the same index in the word-inflection-example-target-array. Each array should therefore have the same length.",
+                    "word-inflection-example-translation": "Kitchen, you are wonderful!",
+                    "word-inflection-example-translation_field_explanation": "The translation of the word-inflection-example-target-array in the origin language as a single string",
+                    "word-inflection-example-explanation": "The kitchen is being directly addressed"
+                }
+            ]
+        }
+    ]
+}

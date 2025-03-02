@@ -1,0 +1,174 @@
+[
+    {
+        "object-type": "metadata",
+        "metadata": {
+            "target-language": "Ukrainian",
+            "origin-language": "English"
+        }
+    },
+    {
+        "object-type": "basic-information",
+        "word-target": "ти",
+        "word-target_field_explanation": "The base form of the word in the target language",
+        "word-origin-script": "ty",
+        "word-origin-script_field_explanation": "The base form of the word in the script of the origin language",
+        "word-pronunciation": "ty",
+        "word-pronunciation_field_explanation": "The pronunciation of the word-target",
+        "word-type": "pronoun",
+        "word-type_field_explanation": "The part of speech the word belongs to",
+        "word-description": "Informal singular second-person pronoun",
+        "word-description_field_explanation": "A short description of the word",
+        "word-explanation": "Used to address a single person informally.",
+        "word-explanation_field_explanation": "A detailed explanation of how the word is used",
+        "word-translation": "you (singular, informal)",
+        "word-translation_field_explanation": "A translation of the word when applicable",
+        "word-examples": [
+            {
+                "word-example-target-array": ["Ти", "дуже", "добрий", "."],
+                "word-example-origin-script-array": ["Ty", "duzhe", "dobryy", "."],
+                "word-example-translation-array": ["You", "are", "very", "kind", "."],
+                "word-example-translation": "You are very kind.",
+                "word-example-explanation": "'Ти' is used to address one person in an informal setting."
+            },
+            {
+                "word-example-target-array": ["Ти", "знаєш", "цю", "пісню", "?"],
+                "word-example-origin-script-array": ["Ty", "znayesh", "tsyu", "pisnyu", "?"],
+                "word-example-translation-array": ["Do", "you", "know", "this", "song", "?"],
+                "word-example-translation": "Do you know this song?",
+                "word-example-explanation": "'Ти' is used here to directly ask someone informally."
+            },
+            {
+                "word-example-target-array": ["Ти", "любиш", "каву", "?"],
+                "word-example-origin-script-array": ["Ty", "lyubysh", "kavu", "?"],
+                "word-example-translation-array": ["Do", "you", "like", "coffee", "?"],
+                "word-example-translation": "Do you like coffee?",
+                "word-example-explanation": "Used to ask an informal question about someone's preference."
+            }
+        ]
+    },       
+    {
+        "object-type": "inflections",
+        "word-inflections": [
+            {
+                "word-inflection-target": "тебе",
+                "word-inflection-target_field_explanation": "The inflection of the word-target",
+                "word-inflection-origin-script": "tebe",
+                "word-inflection-origin-script_field_explanation": "The word-inflection-target in the script of the origin language",
+                "word-inflection-pronunciation": "teh-beh",
+                "word-inflection-pronunciation_field_explanation": "The pronunciation of the word-inflection-target",
+                "word-inflection-type": "declension",
+                "word-inflection-type_field_explanation": "The type of inflection",
+                "word-inflection-description": "Genitive/Accusative, singular",
+                "word-inflection-description_field_explanation": "The description of the inflection",
+                "word-inflection-explanation": "Used for possession (Genitive) or as a direct object (Accusative).",
+                "word-inflection-translation": "you (object form)",
+                "word-inflection-translation_field_explanation": "A translation of the inflected word when applicable",
+                "word-inflection-examples": [
+                    {
+                        "word-inflection-example-target-array": ["Я", "чекаю", "тебе", "."],
+                        "word-inflection-example-origin-script-array": ["Ya", "chekayu", "tebe", "."],
+                        "word-inflection-example-translation-array": ["I", "am waiting", "for you", "."],
+                        "word-inflection-example-translation": "I am waiting for you.",
+                        "word-inflection-example-explanation": "'Тебе' is used in the accusative case as a direct object."
+                    }
+                ]
+            },
+            {
+                "word-inflection-target": "тобі",
+                "word-inflection-target_field_explanation": "The inflection of the word-target",
+                "word-inflection-origin-script": "tobi",
+                "word-inflection-origin-script_field_explanation": "The word-inflection-target in the script of the origin language",
+                "word-inflection-pronunciation": "toh-bee",
+                "word-inflection-pronunciation_field_explanation": "The pronunciation of the word-inflection-target",
+                "word-inflection-type": "declension",
+                "word-inflection-type_field_explanation": "The type of inflection",
+                "word-inflection-description": "Dative, singular",
+                "word-inflection-description_field_explanation": "The description of the inflection",
+                "word-inflection-explanation": "Used when something is given to or done for the subject.",
+                "word-inflection-translation": "to you / for you",
+                "word-inflection-translation_field_explanation": "A translation of the inflected word when applicable",
+                "word-inflection-examples": [
+                    {
+                        "word-inflection-example-target-array": ["Я", "дам", "тобі", "книгу", "."],
+                        "word-inflection-example-origin-script-array": ["Ya", "dam", "tobi", "knyhu", "."],
+                        "word-inflection-example-translation-array": ["I", "will give", "you", "a book", "."],
+                        "word-inflection-example-translation": "I will give you a book.",
+                        "word-inflection-example-explanation": "'Тобі' is used to indicate the indirect object of the action."
+                    }
+                ]
+            },
+            {
+                "word-inflection-target": "тобою",
+                "word-inflection-target_field_explanation": "The inflection of the word-target",
+                "word-inflection-origin-script": "toboyu",
+                "word-inflection-origin-script_field_explanation": "The word-inflection-target in the script of the origin language",
+                "word-inflection-pronunciation": "toh-boh-yu",
+                "word-inflection-pronunciation_field_explanation": "The pronunciation of the word-inflection-target",
+                "word-inflection-type": "declension",
+                "word-inflection-type_field_explanation": "The type of inflection",
+                "word-inflection-description": "Instrumental, singular",
+                "word-inflection-description_field_explanation": "The description of the inflection",
+                "word-inflection-explanation": "Used to indicate the means or instrument by which an action is performed.",
+                "word-inflection-translation": "by you / with you",
+                "word-inflection-translation_field_explanation": "A translation of the inflected word when applicable",
+                "word-inflection-examples": [
+                    {
+                        "word-inflection-example-target-array": ["Я", "пишаюся", "тобою", "."],
+                        "word-inflection-example-origin-script-array": ["Ya", "pyshayusya", "toboyu", "."],
+                        "word-inflection-example-translation-array": ["I", "am proud", "of you", "."],
+                        "word-inflection-example-translation": "I am proud of you.",
+                        "word-inflection-example-explanation": "'Тобою' is used in the instrumental case to indicate who the pride is directed towards."
+                    }
+                ]
+            },
+            {
+                "word-inflection-target": "на тобі",
+                "word-inflection-target_field_explanation": "The inflection of the word-target",
+                "word-inflection-origin-script": "na tobi",
+                "word-inflection-origin-script_field_explanation": "The word-inflection-target in the script of the origin language",
+                "word-inflection-pronunciation": "na toh-bee",
+                "word-inflection-pronunciation_field_explanation": "The pronunciation of the word-inflection-target",
+                "word-inflection-type": "declension",
+                "word-inflection-type_field_explanation": "The type of inflection",
+                "word-inflection-description": "Locative, singular",
+                "word-inflection-description_field_explanation": "The description of the inflection",
+                "word-inflection-explanation": "Used to indicate location or state.",
+                "word-inflection-translation": "on you",
+                "word-inflection-translation_field_explanation": "A translation of the inflected word when applicable",
+                "word-inflection-examples": [
+                    {
+                        "word-inflection-example-target-array": ["Відповідальність", "на", "тобі", "."],
+                        "word-inflection-example-origin-script-array": ["Vidpovidalnist", "na", "tobi", "."],
+                        "word-inflection-example-translation-array": ["The responsibility", "is on", "you", "."],
+                        "word-inflection-example-translation": "The responsibility is on you.",
+                        "word-inflection-example-explanation": "'На тобі' is used to express that someone carries responsibility."
+                    }
+                ]
+            },
+            {
+                "word-inflection-target": "ти",
+                "word-inflection-target_field_explanation": "The inflection of the word-target",
+                "word-inflection-origin-script": "ty",
+                "word-inflection-origin-script_field_explanation": "The word-inflection-target in the script of the origin language",
+                "word-inflection-pronunciation": "ty",
+                "word-inflection-pronunciation_field_explanation": "The pronunciation of the word-inflection-target",
+                "word-inflection-type": "declension",
+                "word-inflection-type_field_explanation": "The type of inflection",
+                "word-inflection-description": "Nominative, singular",
+                "word-inflection-description_field_explanation": "The description of the inflection",
+                "word-inflection-explanation": "The base form, used as the subject of a sentence.",
+                "word-inflection-translation": "you (subject form)",
+                "word-inflection-translation_field_explanation": "A translation of the inflected word when applicable",
+                "word-inflection-examples": [
+                    {
+                        "word-inflection-example-target-array": ["Ти", "дуже", "гарний", "."],
+                        "word-inflection-example-origin-script-array": ["Ty", "duzhe", "harnyy", "."],
+                        "word-inflection-example-translation-array": ["You", "are very", "handsome", "."],
+                        "word-inflection-example-translation": "You are very handsome.",
+                        "word-inflection-example-explanation": "'Ти' is used as the subject of the sentence."
+                    }
+                ]
+            }
+        ]
+    }    
+]

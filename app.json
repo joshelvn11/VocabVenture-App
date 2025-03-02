@@ -1,15 +1,18 @@
 {
   "expo": {
     "name": "VocabVenture",
-    "slug": "VocabVenture",
+    "slug": "vocabventure",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "vocabventure",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "infoPlist": {
+        "UIStatusBarStyle": "UIStatusBarStyleDarkContent"
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -32,7 +35,20 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
-      ]
+      ],
+      ["expo-build-properties", 
+      {
+        "ios": {
+          "extraPods": [
+            {
+              "name": "simdjson",
+              "configurations": ["Debug", "Release"],
+              "path": "../node_modules/@nozbe/simdjson",
+              "modular_headers": true
+            }
+          ]
+        }
+      }]
     ],
     "experiments": {
       "typedRoutes": true

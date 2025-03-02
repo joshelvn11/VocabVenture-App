@@ -1,0 +1,221 @@
+[
+    {
+        "object-type": "metadata",
+        "metadata": {
+            "target-language": "Ukrainian",
+            "origin-language": "English"
+        }
+    },
+    {
+        "object-type": "basic-information",
+        "word-target": "туалет",
+        "word-target_field_explanation": "The canonical form of the word in the target language",
+        "word-origin-script": "tualet",
+        "word-origin-script_field_explanation": "The word-target in the script of the origin language",
+        "word-pronunciation": "too-ah-let",
+        "word-pronunciation_field_explanation": "The pronunciation of the word-target",
+        "word-origin": ["Bathroom"],
+        "word-origin_field_explanation": "The translation of the word-target in the origin language as an array if multiple translations are possible",
+        "word-definition": "A room in a house or building containing a toilet and sink, and often a bathtub or shower.",
+        "word-usage": "",
+        "word-usage_field_explanation": "The usage of the word-target in the target language, if necessary",
+        "word-part-of-speech": "noun",
+        "word-part-of-speech_field_explanation": "The part of speech of the word-target",
+        "word-grammar-notes": "The word 'туалет' is a masculine noun and follows the second declension pattern in Ukrainian.",
+        "word-grammar-notes_field_explanation": "Additional grammatical information about the word-target.",
+        "word-examples": [
+            {
+                "word-example-target-array": ["Туалет", "знаходиться", "на", "другому", "поверсі", "."],
+                "word-example-target-field_explanation": "The example of the word-target in the target language as an array, each word or character is a separate element in the array",
+                "word-example-origin-script-array": ["Tualet", "znakhodytsya", "na", "druhomu", "poversi", "."],
+                "word-example-origin-script-field_explanation": "The word-example-target-array in the script of the origin language",
+                "word-example-translation-array": ["The bathroom", "is located", "on", "the second", "floor", "."],
+                "word-example-translation-field_explanation": "The translation of the word-example-target-array. Each element in the array should correspond to the element with the same index in the word-example-target-array. Each array should therefore have the same length.",
+                "word-example-translation": "The bathroom is located on the second floor.",
+                "word-example-translation_field_explanation": "The translation of the word-example-target-array in the origin language as a single string"
+            },
+            {
+                "word-example-target-array": ["Де", "знаходиться", "туалет", "?"],
+                "word-example-target-field_explanation": "The example of the word-target in the target language as an array, each word or character is a separate element in the array",
+                "word-example-origin-script-array": ["De", "znakhodytsya", "tualet", "?"],
+                "word-example-origin-script-field_explanation": "The word-example-target-array in the script of the origin language",
+                "word-example-translation-array": ["Where", "is located", "the bathroom", "?"],
+                "word-example-translation-field_explanation": "The translation of the word-example-target-array. Each element in the array should correspond to the element with the same index in the word-example-target-array. Each array should therefore have the same length.",
+                "word-example-translation": "Where is the bathroom?",
+                "word-example-translation_field_explanation": "The translation of the word-example-target-array in the origin language as a single string"
+            },
+            {
+                "word-example-target-array": ["Туалет", "у", "цьому", "ресторані", "дуже", "чистий", "."],
+                "word-example-target-field_explanation": "The example of the word-target in the target language as an array, each word or character is a separate element in the array",
+                "word-example-origin-script-array": ["Tualet", "u", "tsomu", "restorani", "duzhe", "chystyy", "."],
+                "word-example-origin-script-field_explanation": "The word-example-target-array in the script of the origin language",
+                "word-example-translation-array": ["The bathroom", "in", "this", "restaurant", "is very", "clean", "."],
+                "word-example-translation-field_explanation": "The translation of the word-example-target-array. Each element in the array should correspond to the element with the same index in the word-example-target-array. Each array should therefore have the same length.",
+                "word-example-translation": "The bathroom in this restaurant is very clean.",
+                "word-example-translation_field_explanation": "The translation of the word-example-target-array in the origin language as a single string"
+            }
+        ],
+        "word-examples_field_explanation": "The examples of the word-target in the target language as an array. Only include examples using the canonical form of the word-target."
+    },
+    {
+        "object-type": "inflections",
+        "word-inflections": [
+            {
+                "word-inflection-target": "туалету",
+                "word-inflection-target_field_explanation": "The inflection of the word-target",
+                "word-inflection-origin-script": "tualetu",
+                "word-inflection-origin-script_field_explanation": "The word-inflection-target in the script of the origin language",
+                "word-inflection-pronunciation": "too-ah-leh-too",
+                "word-inflection-pronunciation_field_explanation": "The pronunciation of the word-inflection-target",
+                "word-inflection-type": "declension",
+                "word-inflection-type_field_explanation": "The type of inflection",
+                "word-inflection-description": "Genitive, singular",
+                "word-inflection-description_field_explanation": "The description of the inflection",
+                "word-inflection-explanation": "The genitive case (родовий відмінок) in Ukrainian is used to indicate possession, absence, quantity, and other relationships. It answers the questions `чого?` (choho? – `of what?`) or `кого?` (koho? – `of whom?`).",
+                "word-inflection-examples": [
+                    {
+                        "word-inflection-example-target-array": ["Двері", "туалету"],
+                        "word-inflection-example-target-field_explanation": "The example of the word-inflection-target in the target language as an array, each word or character is a separate element in the array",
+                        "word-inflection-example-origin-script-array": ["Dveri", "tualetu"],
+                        "word-inflection-example-origin-script-field_explanation": "The word-inflection-example-target-array in the script of the origin language",
+                        "word-inflection-example-translation-array": ["Door", "of the bathroom"],
+                        "word-inflection-example-translation-field_explanation": "The translation of the word-inflection-example-target-array. Each element in the array should correspond to the element with the same index in the word-inflection-example-target-array. Each array should therefore have the same length.",
+                        "word-inflection-example-translation": "The door of the bathroom",
+                        "word-inflection-example-translation_field_explanation": "The translation of the word-inflection-example-target-array in the origin language as a single string",
+                        "word-inflection-example-explanation": "The bathroom is in possession of the door"
+                    }
+                ]
+            },
+            {
+                "word-inflection-target": "туалетові",
+                "word-inflection-target_field_explanation": "The inflection of the word-target",
+                "word-inflection-origin-script": "tualetovi",
+                "word-inflection-origin-script_field_explanation": "The word-inflection-target in the script of the origin language",
+                "word-inflection-pronunciation": "too-ah-leh-toh-vee",
+                "word-inflection-pronunciation_field_explanation": "The pronunciation of the word-inflection-target",
+                "word-inflection-type": "declension",
+                "word-inflection-type_field_explanation": "The type of inflection",
+                "word-inflection-description": "Dative, singular",
+                "word-inflection-description_field_explanation": "The description of the inflection",
+                "word-inflection-explanation": "The dative case (давальний відмінок) in Ukrainian is used to indicate the indirect object of a verb. It answers the questions `кому?` (komu? – `to whom?`) or `чому?` (chomu? – `to what?`).",
+                "word-inflection-examples": [
+                    {
+                        "word-inflection-example-target-array": ["Я", "йду", "до", "туалету", "."],
+                        "word-inflection-example-target-field_explanation": "The example of the word-inflection-target in the target language as an array, each word or character is a separate element in the array",
+                        "word-inflection-example-origin-script-array": ["Ya", "ydu", "do", "tualetu", "."],
+                        "word-inflection-example-origin-script-field_explanation": "The word-inflection-example-target-array in the script of the origin language",
+                        "word-inflection-example-translation-array": ["I", "am going", "to", "the bathroom", "."],
+                        "word-inflection-example-translation-field_explanation": "The translation of the word-inflection-example-target-array. Each element in the array should correspond to the element with the same index in the word-inflection-example-target-array. Each array should therefore have the same length.",
+                        "word-inflection-example-translation": "I am going to the bathroom.",
+                        "word-inflection-example-translation_field_explanation": "The translation of the word-inflection-example-target-array in the origin language as a single string",
+                        "word-inflection-example-explanation": "The bathroom is the indirect object of the verb 'go'"
+                    }
+                ]
+            },
+            {
+                "word-inflection-target": "туалет",
+                "word-inflection-target_field_explanation": "The inflection of the word-target",
+                "word-inflection-origin-script": "tualet",
+                "word-inflection-origin-script_field_explanation": "The word-inflection-target in the script of the origin language",
+                "word-inflection-pronunciation": "too-ah-let",
+                "word-inflection-pronunciation_field_explanation": "The pronunciation of the word-inflection-target",
+                "word-inflection-type": "declension",
+                "word-inflection-type_field_explanation": "The type of inflection",
+                "word-inflection-description": "Accusative, singular",
+                "word-inflection-description_field_explanation": "The description of the inflection",
+                "word-inflection-explanation": "The accusative case (знахідний відмінок) in Ukrainian is used to indicate the direct object of a verb. It answers the questions `кого?` (koho? – `whom?`) or `що?` (shcho? – `what?`).",
+                "word-inflection-examples": [
+                    {
+                        "word-inflection-example-target-array": ["Я", "прибираю", "туалет", "."],
+                        "word-inflection-example-target-field_explanation": "The example of the word-inflection-target in the target language as an array, each word or character is a separate element in the array",
+                        "word-inflection-example-origin-script-array": ["Ya", "prybyrayu", "tualet", "."],
+                        "word-inflection-example-origin-script-field_explanation": "The word-inflection-example-target-array in the script of the origin language",
+                        "word-inflection-example-translation-array": ["I", "clean", "the bathroom", "."],
+                        "word-inflection-example-translation-field_explanation": "The translation of the word-inflection-example-target-array. Each element in the array should correspond to the element with the same index in the word-inflection-example-target-array. Each array should therefore have the same length.",
+                        "word-inflection-example-translation": "I am cleaning the bathroom.",
+                        "word-inflection-example-translation_field_explanation": "The translation of the word-inflection-example-target-array in the origin language as a single string",
+                        "word-inflection-example-explanation": "The bathroom is the direct object of the verb 'clean'"
+                    }
+                ]
+            },
+            {
+                "word-inflection-target": "туалетом",
+                "word-inflection-target_field_explanation": "The inflection of the word-target",
+                "word-inflection-origin-script": "tualetom",
+                "word-inflection-origin-script_field_explanation": "The word-inflection-target in the script of the origin language",
+                "word-inflection-pronunciation": "too-ah-leh-tom",
+                "word-inflection-pronunciation_field_explanation": "The pronunciation of the word-inflection-target",
+                "word-inflection-type": "declension",
+                "word-inflection-type_field_explanation": "The type of inflection",
+                "word-inflection-description": "Instrumental, singular",
+                "word-inflection-description_field_explanation": "The description of the inflection",
+                "word-inflection-explanation": "The instrumental case (орудний відмінок) in Ukrainian is used to indicate the means or instrument by which an action is performed. It answers the questions `ким?` (kym? – `by whom?`) or `чим?` (chym? – `by what?`).",
+                "word-inflection-examples": [
+                    {
+                        "word-inflection-example-target-array": ["Я", "користуюся", "туалетом", "."],
+                        "word-inflection-example-target-field_explanation": "The example of the word-inflection-target in the target language as an array, each word or character is a separate element in the array",
+                        "word-inflection-example-origin-script-array": ["Ya", "korystuyusya", "tualetom", "."],
+                        "word-inflection-example-origin-script-field_explanation": "The word-inflection-example-target-array in the script of the origin language",
+                        "word-inflection-example-translation-array": ["I", "use", "the bathroom", "."],
+                        "word-inflection-example-translation-field_explanation": "The translation of the word-inflection-example-target-array. Each element in the array should correspond to the element with the same index in the word-inflection-example-target-array. Each array should therefore have the same length.",
+                        "word-inflection-example-translation": "I use the bathroom.",
+                        "word-inflection-example-translation_field_explanation": "The translation of the word-inflection-example-target-array in the origin language as a single string",
+                        "word-inflection-example-explanation": "The bathroom is the means by which the action of using is performed"
+                    }
+                ]
+            },
+            {
+                "word-inflection-target": "в туалеті",
+                "word-inflection-target_field_explanation": "The inflection of the word-target",
+                "word-inflection-origin-script": "v tualeti",
+                "word-inflection-origin-script_field_explanation": "The word-inflection-target in the script of the origin language",
+                "word-inflection-pronunciation": "v too-ah-leh-tee",
+                "word-inflection-pronunciation_field_explanation": "The pronunciation of the word-inflection-target",
+                "word-inflection-type": "declension",
+                "word-inflection-type_field_explanation": "The type of inflection",
+                "word-inflection-description": "Locative, singular",
+                "word-inflection-description_field_explanation": "The description of the inflection",
+                "word-inflection-explanation": "The locative case (місцевий відмінок) in Ukrainian is used to indicate location. It answers the questions `де?` (de? – `where?`) or `у чому?` (u chomu? – `in what?`).",
+                "word-inflection-examples": [
+                    {
+                        "word-inflection-example-target-array": ["Він", "у", "туалеті", "."],
+                        "word-inflection-example-target-field_explanation": "The example of the word-inflection-target in the target language as an array, each word or character is a separate element in the array",
+                        "word-inflection-example-origin-script-array": ["Vin", "u", "tualeti", "."],
+                        "word-inflection-example-origin-script-field_explanation": "The word-inflection-example-target-array in the script of the origin language",
+                        "word-inflection-example-translation-array": ["He", "is", "in", "the bathroom", "."],
+                        "word-inflection-example-translation-field_explanation": "The translation of the word-inflection-example-target-array. Each element in the array should correspond to the element with the same index in the word-inflection-example-target-array. Each array should therefore have the same length.",
+                        "word-inflection-example-translation": "He is in the bathroom.",
+                        "word-inflection-example-translation_field_explanation": "The translation of the word-inflection-example-target-array in the origin language as a single string",
+                        "word-inflection-example-explanation": "The bathroom is the location where the action takes place"
+                    }
+                ]
+            },
+            {
+                "word-inflection-target": "туалете",
+                "word-inflection-target_field_explanation": "The inflection of the word-target",
+                "word-inflection-origin-script": "tualete",
+                "word-inflection-origin-script_field_explanation": "The word-inflection-target in the script of the origin language",
+                "word-inflection-pronunciation": "too-ah-leh-teh",
+                "word-inflection-pronunciation_field_explanation": "The pronunciation of the word-inflection-target",
+                "word-inflection-type": "declension",
+                "word-inflection-type_field_explanation": "The type of inflection",
+                "word-inflection-description": "Vocative, singular",
+                "word-inflection-description_field_explanation": "The description of the inflection",
+                "word-inflection-explanation": "The vocative case (кличний відмінок) in Ukrainian is used to address or call someone or something directly. It is rarely used for inanimate objects like 'bathroom.'",
+                "word-inflection-examples": [
+                    {
+                        "word-inflection-example-target-array": ["Туалете,", "будь", "ласка,", "очисться", "!"],
+                        "word-inflection-example-target-field_explanation": "The example of the word-inflection-target in the target language as an array, each word or character is a separate element in the array",
+                        "word-inflection-example-origin-script-array": ["Tualete,", "bud", "laska,", "ochystysya", "!"],
+                        "word-inflection-example-origin-script-field_explanation": "The word-inflection-example-target-array in the script of the origin language",
+                        "word-inflection-example-translation-array": ["Bathroom,", "please,", "clean", "yourself", "!"],
+                        "word-inflection-example-translation-field_explanation": "The translation of the word-inflection-example-target-array. Each element in the array should correspond to the element with the same index in the word-inflection-example-target-array. Each array should therefore have the same length.",
+                        "word-inflection-example-translation": "Bathroom, please clean yourself!",
+                        "word-inflection-example-translation_field_explanation": "The translation of the word-inflection-example-target-array in the origin language as a single string",
+                        "word-inflection-example-explanation": "The bathroom is being directly addressed"
+                    }
+                ]
+            }
+        ]
+    }
+]
